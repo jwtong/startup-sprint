@@ -3,5 +3,9 @@
  */
 
 .column {
-
 }
+
+.column-container {
+	display: flex;
+}
+
